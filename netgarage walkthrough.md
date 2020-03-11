@@ -1,6 +1,6 @@
-IO.Netgarage.org Walk-through
+**IO.Netgarage.org Walk-through**
 
-Introduction
+**Introduction**
 
 IO is the most mature game, but is never the less in continually updated as technology develops. It provides recent radare2 and gdb builds.
 Level 1
